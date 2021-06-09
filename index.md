@@ -20,11 +20,7 @@
 - 麻辣
 - ...
 
-`
+_备注:以上方法可多次综合使用。_
 
-备注:以上方法可多次综合使用。
-
-while gugugu
-    jixuchuli
-    
-`
+`while gugugu
+    jixuchuli`
