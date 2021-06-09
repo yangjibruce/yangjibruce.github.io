@@ -22,7 +22,11 @@
 
 备注:以上方法可多次综合使用。
 
-```
+```python
+import random
+
+jixuchuli = ["红烧","清蒸","麻辣","烧烤"]
+gugugu = 1
 while gugugu:
-  jixuchuli
+  print(jixuchuli[random.randint(0,2)])
 ```
