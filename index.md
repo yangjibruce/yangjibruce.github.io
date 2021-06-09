@@ -22,5 +22,5 @@
 
 _备注:以上方法可多次综合使用。_
 
-`while gugugu
+`while gugugu:
     jixuchuli`
