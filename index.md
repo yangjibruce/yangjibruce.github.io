@@ -5,7 +5,7 @@
 * * *
 
 ## ddl家族与鸽子倒计
-[check](https://yangjibruce.github.io/ddl/)
+[检查我是否有可能成为红烧鸽子](https://yangjibruce.github.io/ddl/)
 
 ## 鸽子名单
 
