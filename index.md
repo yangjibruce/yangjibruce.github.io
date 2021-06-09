@@ -5,7 +5,7 @@
 * * *
 
 ## ddl家族与鸽子倒计
-![check](https://yangjibruce.github.io/ddl/)
+[check](https://yangjibruce.github.io/ddl/)
 
 ## 鸽子名单
 
