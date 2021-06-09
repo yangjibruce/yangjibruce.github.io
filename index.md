@@ -8,31 +8,23 @@
 
 在以下的地方将会展示鸽子的名单，并配以显著的图像加以识别。
 
-[image](
+1. 姓名：鸽子1号
 
+[image](dove1.jpg)
 
-Syntax highlighted code block
+## 对于已知鸽子的备选处理方案
 
-# Header 1
-## Header 2
-### Header 3
+- 烘焙
+- 红烧
+- _清蒸_（这个好像没什么味，建议不选）
+- 麻辣
+- ...
 
-- Bulleted
-- List
+`
 
-1. Numbered
-2. List
+备注:以上方法可多次综合使用。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangjibruce/yangjibruce.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+while gugugu
+    jixuchuli
+    
+`
