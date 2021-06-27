@@ -1,6 +1,6 @@
 ## 欢迎来到这个奇怪的页面
 
-其实我还没有想好这里要干什么...但可能会用于挂人。看到这个页面的你要注意了！[感到累了](https://yangjibruce.github.io/ball/release/)？
+其实我还没有想好这里要干什么...但可能会用于挂人。看到这个页面的你要注意了！[感到累了？](https://yangjibruce.github.io/ball/release/)
 
 * * *
 
